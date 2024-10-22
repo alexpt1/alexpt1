@@ -17,6 +17,12 @@ I am currently in my second year pursuing a Masters degree in Computer Science &
 ### Future Goals
 - Secure an internship in the field of cybersecurity
 - Become a cybersecurity professional, solving real world problems and working in a team.
+  
+---
+
+## Certifications
+
+Google Cyber Security Professional Certificate
 
 ---
 
@@ -36,12 +42,6 @@ I am currently in my second year pursuing a Masters degree in Computer Science &
 - **VS Code** - Primary code editor
 - **IntelliJ IDEA** - Object-oriented programming in Java
 - **MySQL/PostgreSQL** - Database management systems
-
----
-
-## Certifications
-
-Google Cyber Security Professional Certificate
 
 ---
 
