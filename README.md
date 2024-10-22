@@ -14,13 +14,13 @@ I am currently in my second year pursuing a Masters degree in Computer Science &
 - Machine learning and artificial intelligence
 - Web devlopment
 
-### 🚀 Future Goals
+### Future Goals
 - Secure an internship in the field of cybersecurity
 - Become a cybersecurity professional, solving real world problems and working in a team.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ### Programming Languages
 - **Python** - Data analysis, scripting, web development (Flask/Django)
@@ -39,7 +39,7 @@ I am currently in my second year pursuing a Masters degree in Computer Science &
 
 ---
 
-## 🏆 Achievements & Certifications
+## Certifications
 
 Google Cyber Security Professional Certificate
 
