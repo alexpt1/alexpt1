@@ -1,22 +1,22 @@
-# Hi, I'm Alex 👋
+# Hi, I'm Alex!
 
-Welcome to my GitHub repository! I'm Alex Peaty, an aspiring computer scientist passionate about solving complex problems. This repository showcases my important and recent projects, skills, and contributions to the field of computer science.
+Welcome to my GitHub repository! I'm Alex Peaty, an aspiring cyber security professional. This repository showcases my important and recent projects and skills.
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I am currently in my second year pursuing a degree in Computer Science and have a strong interest in software engineering, data analysis, and machine learning. I love exploring new technologies and adapt quickly when learning new languages and concepts, so I continuously challenge myself to learn and grow.
+I am currently in my second year pursuing a Masters degree in Computer Science & Cyber Security and have a strong interest in penetration testing, information security and forensics. I love exploring new technologies and adapt quickly when learning new languages and concepts, so I continuously challenge myself to learn and improve.
 
-### 🌱 What I'm Currently Learning
+### What I'm Currently Learning
+- Cyber Security
 - Functional Programming with Haskell
 - Machine learning and artificial intelligence
 - Web devlopment
 
 ### 🚀 Future Goals
-- Contribute to open-source projects to solve more real world problems
-- Develop a full-stack web application
-- Learn C++ and explore game development
+- Secure an internship in the field of cybersecurity
+- Become a cybersecurity professional, solving real world problems and working in a team.
 
 ---
 
@@ -39,26 +39,13 @@ I am currently in my second year pursuing a degree in Computer Science and have 
 
 ---
 
-## 📂 Projects
-
-Here are a few of the projects that I've worked on:
-
-
-
----
-
 ## 🏆 Achievements & Certifications
 
-
+Google Cyber Security Professional Certificate
 
 ---
 
-## 🤝 Contributions
-
-
-
 ## 📫 Get in Touch
+Email: alexpeaty1@gmail.com
 
 
-
-### 📝 License
