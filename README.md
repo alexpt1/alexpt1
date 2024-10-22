@@ -45,7 +45,7 @@ Google Cyber Security Professional Certificate
 
 ---
 
-## 📫 Get in Touch
+## My details
 Email: alexpeaty1@gmail.com
 
 
