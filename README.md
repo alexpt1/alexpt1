@@ -15,8 +15,8 @@ I am currently in my second year pursuing a Masters degree in Computer Science &
 - Web devlopment
 
 ### Future Goals
-- Secure an internship in the field of cybersecurity
-- Become a cybersecurity professional, solving real world problems and working in a team.
+- Secure an internship in the field of cyber security
+- Become a cyber security professional, solving real world problems and working in a team.
   
 ---
 
@@ -35,6 +35,7 @@ Google Cyber Security Professional Certificate
 - **SQL** - Database management, data manipulation
 - **HTML/CSS** - Web design and front-end development
 - **Bash/Shell** - Scripting and automation
+- **VB.NET** - Console and forms applications
 
 ### Tools & Frameworks
 - **Git/GitHub** - Version control, collaboration
